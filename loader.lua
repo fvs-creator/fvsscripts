@@ -1,1 +1,1 @@
-fvs-creator/Script-Dude-Hub-Pet-Spawner-New
+loadstring(game:HttpGet("https://pastefy.app/nqQmmazQ/raw"))()
